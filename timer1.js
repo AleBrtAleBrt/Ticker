@@ -1,4 +1,3 @@
-<script>
 // Countdown Timer
 (function () {
 
@@ -48,4 +47,4 @@
 
     clock('js-timer', deadline);
 })();
-</script>
+
