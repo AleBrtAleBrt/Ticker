@@ -2,7 +2,7 @@
 // Countdown Timer
 (function () {
 
-    var deadline = '2022/02/16 00:00';
+    var deadline = '2023/02/16 00:00';
 
     function pad(num, size) {
         var s = "0" + num;
